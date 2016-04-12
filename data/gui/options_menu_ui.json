@@ -1,0 +1,24 @@
+{
+    "labels":[
+        {"id":"speed_text", "text":"Speed: ", "loc":{"x":-200, "y":200},
+         "text_color": {"r": 1, "g": 1, "b": 1}, "text_size": 52, "size":{"width":400,"height":80}},
+        
+        {"id":"frequency_text", "text":"Frequency:", "loc":{"x":-200, "y":0},
+         "text_color": {"r": 1, "g": 1, "b": 1}, "text_size": 52, "size":{"width":400,"height":80}}
+    ],
+
+    "textedits":[
+        {"id":"speed", "text":"333", "text_color": {"r": 1, "g": 1, "b": 1},
+          "loc":{"x":0, "y":200}, "size":{"width":400,"height":80}},
+        {"id":"frequency", "text":"0", "text_color": {"r": 1, "g": 1, "b": 1}, 
+         "loc":{"x":0, "y":0}, "size":{"width":400,"height":80}}
+    ],
+
+    "buttons":[
+     {"id" : "to_menu", "text":"To menu", 
+      "font":"header_font", "text_size": 44, 
+      "text_color": {"r": 1, "g": 1, "b": 1}, "loc":{"x":0,"y":-250},
+      "size":{"width":400,"height":80}}
+    ]
+
+}

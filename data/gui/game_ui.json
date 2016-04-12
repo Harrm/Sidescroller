@@ -1,0 +1,6 @@
+{
+    "labels":[
+    {"id":"progress", "text":"Progress", "loc":{"x":-280, "y":250}, 
+     "text_color": {"r": 0.5, "g": 0.5, "b": 0.5}}
+    ]
+}

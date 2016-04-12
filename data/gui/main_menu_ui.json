@@ -1,0 +1,18 @@
+{
+    "buttons":
+    [{"id" : "new_game", "text":"New game",
+      "font":"header_font", "text_size": 44, 
+      "text_color": {"r": 1, "g": 1, "b": 1}, "loc":{"x":0,"y":100},
+      "size":{"width":400,"height":100}},
+      
+      {"id" : "options", "text":"Options", 
+      "font":"header_font", "text_size": 44, 
+      "text_color": {"r": 1, "g": 1, "b": 1}, "loc":{"x":0,"y":-50},
+      "size":{"width":400,"height":100}},
+
+      {"id" : "exit", "text":"Exit", 
+      "font":"header_font", "text_size": 44, 
+      "text_color": {"r": 1, "g": 1, "b": 1}, "loc":{"x":0,"y":-200},
+      "size":{"width":400,"height":100}}]
+
+}

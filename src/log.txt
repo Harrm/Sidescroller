@@ -1,0 +1,22 @@
+Load soundtrack from Rise.wav resource type 1
+READ main_menu_ui.json
+READ default_button.json
+Load header_font from supernatural_knight.ttf resource type 2
+Load ../data/fonts/ supernatural_knight.ttf
+Load large-button from large-button.png resource type 0
+Load large-button-active from large-button-active.png resource type 0
+Load large-button-active-pressed from large-button-active-pressed.png resource type 0
+READ game_ui.json
+READ default_label.json
+Load default_font from allods_west.ttf resource type 2
+Load ../data/fonts/ allods_west.ttf
+Load player from PC Computer - Duelyst - General Zirix Starstrider.png resource type 3
+Load wall from wall.png resource type 0
+Load spiral from spiral2.png resource type 0
+READ main_menu_ui.json
+READ options_menu_ui.json
+READ default_label.json
+READ main_menu_ui.json
+READ game_ui.json
+Load spikes from spikes.png resource type 0
+READ result_menu_ui.json

@@ -1,0 +1,25 @@
+{
+    "labels":[
+        {"id":"result_text", "text":"Defeat", "loc":{"x":0, "y":150},
+         "text_color": {"r": 1, "g": 1, "b": 1}, "text_size": 52, 
+         "size":{"width":400,"height":80}
+}
+    ],
+
+    "buttons":
+    [{"id" : "new_game", "text":"New game",
+      "font":"header_font", "text_size": 44, 
+      "text_color": {"r": 1, "g": 1, "b": 1}, "loc":{"x":0,"y":-50},
+      "size":{"width":400,"height":80}},
+
+      {"id" : "to_menu", "text":"To menu", 
+      "font":"header_font", "text_size": 44, 
+      "text_color": {"r": 1, "g": 1, "b": 1}, "loc":{"x":0,"y":-150},
+      "size":{"width":400,"height":80}},
+
+      {"id" : "exit", "text":"Exit", 
+      "font":"header_font", "text_size": 44, 
+      "text_color": {"r": 1, "g": 1, "b": 1}, "loc":{"x":0,"y":-250},
+      "size":{"width":400,"height":80}}]
+
+}
